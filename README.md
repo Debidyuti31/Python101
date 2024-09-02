@@ -11,3 +11,5 @@ Day 6 - Return days of the week by inputting respective numbers(using switch cas
 Day 7 - Return days of the month by inputting respective numbers (using dictionary)
 
 Day 8 - Print the entire multiplicative table of that number from 1 to 10 (using range function only)
+
+Day 9 - Calculate the simple interest of an user input amount with its rate of interest per annum and time period in years
